@@ -19,15 +19,6 @@ LICENSE: [MIT](/license.md)
 
 ![Главная](./assets/Главная.png)
 
-
-
-
-
-
-
-
-
-
 GIT Logo by Jason long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 > 🐢 *Персонажи используются с уважением к правообладателям (Nickelodeon/Viacom). Эта неофициальная инструкция создана фанатами для фанатов.*
