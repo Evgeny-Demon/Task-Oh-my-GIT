@@ -11,10 +11,10 @@ LICENSE: [MIT](/license.md)
 2. [git init](git_init.md)
 2. [git add](./add.md)
 3. [git commit](/git_commit.md)
-4. git clone
-5. git remote add
-6. git fetch
-7. git merge
+4. [git clone](/git_clone.md)
+5. [git remote add](/git_remote_add.md)
+6. [git fetch](/git_fetch.md)
+7. [git merge](/git_merge.md)
 8. git pull
 9. git push
 10. git status
